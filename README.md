@@ -1,7 +1,5 @@
 ## hello-world
 
-## I don't publicly share my contributions
-
 # Currently open to work
 
 ## For more information contact me on LinkedIn: linkedin.com/in/maciej-goławski-bb3b4a224 or e-mail: mgolwski@protonmail.com
