@@ -6,5 +6,5 @@
 
 # I am interested in web design, development of websites, user interface:
 
-## Mostly building websites with WordPress, although my preferred languages are: JavaScript, HTML/CSS, React.js
+## Mostly building websites with JavaScript, HTML and CSS, React.js
 
